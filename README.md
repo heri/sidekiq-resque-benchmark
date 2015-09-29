@@ -1,8 +1,8 @@
 # Performance tests Sidekiq vs Resque
 
-Benchmarking Sidekiq and Resque in a Rails app (call to external Flickr api)
+Benchmarking Sidekiq and Resque for a Rails app (call to external Flickr api)
 
-Based on the `myapp` on sidekiq. Added resque equivalent code. 
+Based on the `myapp` on sidekiq. Added resque equivalent code.
 
 ## Running Sidekiq
 
