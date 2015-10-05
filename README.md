@@ -29,3 +29,13 @@ Based on the `myapp` on sidekiq. Added resque equivalent code for benchmark purp
 Typical results demonstrate order of magnitude speed increase of sidekiq vs resque. Resque however has free web dashboard and scheduler.
 
 See also http://www.mikeperham.com/2013/06/30/background-job-processing-overhead/ for more performance benchmarks.
+
+## Contact
+
+Heri
+
+* [Code on Github](http://github.com/heri)
+* [I write on Medium](http://medium.com/@heri)
+* [twitter](http://twitter.com/heri)
+* Photography [Instagram](https://instagram.com/heri_rakotomalala/) [500px](https://500px.com/heri)
+* [Background site](http://madmedia.ca)
